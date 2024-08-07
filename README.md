@@ -24,8 +24,8 @@ This tool is a bash script designed to automate the process of flashing the ESP8
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/wifi_jammer_tool.git
-   cd wifi_jammer_tool
+   git clone https://github.com/FancybearIN/Wifi_jammer.git
+   cd wifi_jammer
    ```
 
 2. **Make the Script Executable**:
