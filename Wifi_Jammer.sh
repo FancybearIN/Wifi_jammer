@@ -6,6 +6,7 @@ install_deps_debian() {
   apt-get update
   apt-get install -y python3-pip python3-setuptools git esptool aircrack-ng wireless-tools
   pip3 install esptool
+  firefox https://deauther.com/docs/download/&
 }
 
 # Function to install dependencies on Arch Linux
@@ -14,6 +15,8 @@ install_deps_arch() {
   pacman -Syu --noconfirm
   pacman -S --noconfirm python-pip git esptool aircrack-ng wireless_tools
  # pip install esptool
+   firefox https://deauther.com/docs/download/&
+  
 }
 
 # Function to flash the ESP8266 Deauther firmware

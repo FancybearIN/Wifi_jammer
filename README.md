@@ -34,6 +34,8 @@ This tool is a bash script designed to automate the process of flashing the ESP8
    chmod +x wifi_jammer.sh
    ```
 
+**Note :  after firefox click download button to install**
+
 ## Usage
 
 1. **Run the Script**:
